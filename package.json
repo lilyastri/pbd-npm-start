@@ -1,0 +1,17 @@
+{
+  "name": "tugasbpd",
+  "version": "1.0.0",
+  "description": "project pbd",
+  "main": "index.js",
+  "scripts": {
+    "start": "node tugas.js"
+  },
+  "keywords": [
+    "tugas"
+  ],
+  "author": "Lily Isnaini Astriningsih",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
